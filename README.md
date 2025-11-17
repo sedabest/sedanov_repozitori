@@ -3,46 +3,46 @@
 
 
 ## vsebina
--vrste štipendij
+- Vrste štipendij
 
--razpisi in roki
+- Razpisi in roki
 
--pogoji in merila
+- Pogoji in merila
 
--navodila za prijavo
+- Navodila za prijavo
 
--potrebna dokumentacija
+- Potrebna dokumentacija
 
--elektronska oddaja vlog
+- Elektronska oddaja vlog
 
--svetovanje uporabnikom
+- Svetovanje uporabnikom
 
--informacije o obveznostih štipendistov
+- Informacije o obveznostih štipendistov
 
--povezovanje z delodajalci
+- Povezovanje z delodajalci
 
  ## delovanje
--registracija
+- Registracija
  
--iskanje štipendij
+- Iskanje štipendij
 
--oddaja prijave
+- Oddaja prijave
 
--spremljanje statusa
+- Spremljanje statusa
 
--obvestila
+- Obvestila
 
--izplačilo
+- Izplačilo
 
 ## funkcije
--prijava uporabnika
+- Prijava uporabnika
 
--filtriranje štipendij
+- Filtriranje štipendij
 
--naloži dokumente
+- Naloži dokumente
 
--sledjenje statusa
+- Sledjenje statusa
 
--opomniki o rokih
+- Opomniki o rokih
 
--upravljanje izplačil
+- Upravljanje izplačil
